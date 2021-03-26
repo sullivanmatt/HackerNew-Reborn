@@ -1,7 +1,7 @@
 {
-  "name": "HackerNew",
-  "version": "1.3.2",
-  "description": "The best Hacker News extension, making HN quicker and more useful since 2012.",
+  "name": "HackerNew-Reborn",
+  "version": "1.3.3",
+  "description": "A chrome extension to add requested and missing functionality to Hacker News, including quick user profiles, inline replies, story filtering and more.",
   "background": {
     "page": "background.html"
   },
