@@ -7,7 +7,7 @@ A chrome extension to add requested and missing functionality to hacker news inc
 
 Install from the Chrome Webstore to receive automatic updates:
 
-(coming soon)
+https://chrome.google.com/webstore/detail/hackernew-reborn/fkdmbdmooimpbdjnpelijhbnlncfheak
 
 
 ## Features
